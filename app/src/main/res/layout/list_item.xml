@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:text="Mondy - lala - Sunny - 50/95"
+    android:id="@+id/list_item_textview"
+    android:gravity="left|center"
+    android:paddingLeft="@dimen/padding"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minHeight="?android:listPreferredItemHeight"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+</TextView>
